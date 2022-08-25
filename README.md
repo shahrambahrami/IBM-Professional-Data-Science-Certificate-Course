@@ -1,4 +1,4 @@
-# IBM Professional DataScience Certificate Course Exercises
+# IBM Professional Data Science Certificate Course Exercises
 
 These are IBM Professinal Data Science exercises
 
